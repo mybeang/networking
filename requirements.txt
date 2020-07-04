@@ -1,0 +1,4 @@
+netmiko
+textfsm
+pandas
+tabulate
